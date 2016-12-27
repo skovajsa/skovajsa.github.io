@@ -8,12 +8,12 @@ Na kayaku cez tri hlavné mestá - 1. Plánovanie
 :authors: Patrik Skovajsa
 :summary: Plán riečnej cesty z Viedne do Budapešti
 
-.. image:: images/Hainburg.png
+.. image:: {filename}/images/Hainburg.png
     :alt: Hainburg
 
 Blíži sa koniec leta a v našich končinách sa naskytá posledná príležitosť na dobrodrúžstvo v prírode s pekným počasím cez deň a nie príliš studenými nocami. Rozhodol som sa zúročiť mesiace trénovania na vode s morským kayakom. Výber padol na najdlhšiu rieku v Európskej únii, druhú najdlhšiu rieku v Európe a 30. najdlhšiu rieku na svete. Netreba chodiť ďaleko, je to "náš" Dunaj. Na úseku asi 270km spája hlavné mestá troch susediacich krajín: **Viedeň**, **Bratislava** a **Budapešť**. Práve to bude naša cesta. 
 
-.. image:: images/dunaj_mapa.png
+.. image:: {filename}/images/dunaj_mapa.png
     :alt: Mapa rieky Dunaj
 
 Splav som naplánoval na 5 dní. Po Bratislavu tečie Dunaj ešte celkom rýchlo, takže prvý deň sa spotíme aj keby nevyšla veľmi dobrá predpoveď počasia a pokúsime sa prejsť až po Dobrohošť, kde prenesieme člny do starého koryta Dunaja, ktorý je oveľa krajší a okrem kompy tam neplávajú veľké lode, ktoré kazia pokojný spánok. Kúsok za prenáškou je veľký zalesnený ostrov, kde sú perfektné miesta na táborenie.
@@ -28,7 +28,7 @@ Deň   Denný plán Prejdená trasa
 5.deň 56 km      **276 km**
 ===== ========== ==============
 
-.. image:: images/patrik.png
+.. image:: {filename}/images/patrik.png
     :alt: Patrik na kayaku
 
 **Riečne kilometre**
